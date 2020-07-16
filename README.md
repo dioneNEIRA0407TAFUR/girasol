@@ -1,13 +1,4 @@
-<!DOCTYPE html>
-<html lang="es">
-<head>
-<meta charset="UTF-8>
-<meta name > "viewwport" content="width=devide-width, initial-scale=1.0">
-<title>GIRASOL</title> 
-<link rel="stylesheet" href="css/estilo.css">
-<link href='https://cdn.jsdelivr.net/npm/boxicons@2.0.5/css/boxicons.min.css' rel='stylesheet'>
-<link href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400;700&display=swap" rel="stylesheet">
-</head>
+
 <body>
     <header class="header" id="inicio"
         <img src="" alt="" class=""></img>
@@ -103,8 +94,5 @@
     </div>
     <div class="line">
         </div>
-</footer>
-<script src="js/menu.js"></script>
-<script src="js/lightbox.js"></script>
-</body>
+
 </html>
