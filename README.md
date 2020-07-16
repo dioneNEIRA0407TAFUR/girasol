@@ -1,16 +1,4 @@
 
-
-    <header class="header" id="inicio"
-        <img src="" alt="" class=""></img>
-        <img src="img/hamburquesa.svg" alt="" class="hamburger"></Img>
-        <nav class="menu-navegacion">
-            <a href="#inicio">Inicio</a>
-            <a href="#servicio">Servicio</a>  
-            <a href="#portafolio">Portafolio</a>
-            <a href="#expertos">Expertos</a>
-            <a href="#contacto">Contactos</a>
-        </nav>
-        <div class="contenedor head"
    <h1> </h1>
     <h1 class="titulo"> TUS RECUERDOS EN UNA SOLA FOTO  </h1>
         <p class="copy">PHOTOGRAPHY</p>
