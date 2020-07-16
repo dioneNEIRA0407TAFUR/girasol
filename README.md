@@ -1,5 +1,5 @@
 
-<body>
+
     <header class="header" id="inicio"
         <img src="" alt="" class=""></img>
         <img src="img/hamburquesa.svg" alt="" class="hamburger"></Img>
